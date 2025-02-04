@@ -1,5 +1,4 @@
 This project is part of the **Python Project for Data Engineering - Hands-on Lab: Web Scraping and Extracting Data using APIs** by IBM in Coursera. 
-The goal of this hands-on lab is to practice web scraping techniques and work with APIs to extract and process data. 
 
 ### Project Overview:
 
