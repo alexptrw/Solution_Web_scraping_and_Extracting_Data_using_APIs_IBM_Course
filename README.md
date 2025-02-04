@@ -14,6 +14,6 @@ Once the data is extracted and processed, it is saved into both a CSV file and a
 
 - Scrape the data of the top 100 films from Rotten Tomatoes, including the film's title, year of release, and ranking position.
 - Restrict the output to only the top 25 films.
-- Filter the results to include only films released in the 2000s or later (from 2000 onward).
+- Filter the results to include only films released in the 2000s or later (year 2000 included).
 - The resulting filtered data will be saved into a CSV file 
 - The same filtered data will also be stored in an SQLite database
